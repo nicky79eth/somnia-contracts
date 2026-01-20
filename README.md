@@ -1,5 +1,3 @@
-# somnia-contracts
-Smart contracts and starter setup for building on Somnia. Includes deployment scripts and basic contract interactions.
 # Somnia Contracts
 
 This repository contains Solidity smart contracts deployed on Somnia mainnet.
